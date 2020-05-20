@@ -9,7 +9,7 @@ R represents a clockwise turn.
 F represents a forward movement.
 
 The file input is expected to be .txt format with content similar to: LRFFRLRRLLLLRFFLRLFF/
-(Note: The app is able to discern between characters and character casing. The file also does some file name validating. Only the following characters are valid for the file name: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-. ")
+(Note: The app is able to discern between characters and character casing. The input also does some file name validating. Only the following characters are allowed for the file name: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-. ")
 
 <h2>Running the app</h2>
 
