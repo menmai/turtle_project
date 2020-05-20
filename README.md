@@ -27,7 +27,7 @@ Start the app using:
 
 `flask run`
 
-(Alternatively for step 5, you can use `python -m flask run`
+(Alternatively for step 5, you can use `python -m flask run`)
 
 Open a web browser and navigate to localhost:5000
 
