@@ -8,8 +8,8 @@ L represents a counter clockwise turn.
 R represents a clockwise turn.
 F represents a forward movement.
 
-The file input is expected to be .txt format with content similar to: LRFFRLRRLLLLRFFLRLFF
-Although, the app is able to discern between characters and character casing.
+The file input is expected to be .txt format with content similar to: LRFFRLRRLLLLRFFLRLFF/
+(Note: The app is able to discern between characters and character casing)
 
 <h2>Running the app</h2>
 
