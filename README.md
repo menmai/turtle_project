@@ -15,22 +15,22 @@ Although, the app is able to discern between characters and character casing.
 
 (Python required)
 
-1. Download the project
+Download the project
 
-2. Open your terminal in the directory containing the main.py file
+Open your terminal in the directory containing the main.py file
 
-3. Export the flask app environment variable using:
+Export the flask app environment variable using:
 
 `export FLASK_APP=main.py`
 
-4. Start the app using:
+Start the app using:
 
 `flask run`
 
 (Alternatively for step 5, you can use `python -m flask run`
 
-5. Open a web browser and navigate to localhost:5000
+Open a web browser and navigate to localhost:5000
 
-6. Select a .txt file containing your LRF format directions and select row and column sizes (Max 181x181, Default 131x131)
+Select a .txt file containing your LRF format directions and select row and column sizes (Max 181x181, Default 131x131)
 
-7. Press Begin and enjoy!
+Press Begin and enjoy!
